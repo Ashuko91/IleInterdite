@@ -1,8 +1,8 @@
 # L'IleInterdite
 
-Projet POGL réalisé par SARTIAUX Lilian et RIBEIRO David.
+Projet POGL réalisé par SARTIAUX Lilian et RIBEIRO David, Groupe 2.
 
-Nous avons traités les trois premières partie : On va se la couler douce, Non pas la trempette et Sa place est dans un musée.
+Nous avons traités les trois premières parties : On va se la couler douce, Non pas la trempette et Sa place est dans un musée.
 
 Nous avons organisé le projet en 3 packages : modele, Vue et Observer.
 Package modele contient 6 classes :
